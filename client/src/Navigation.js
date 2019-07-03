@@ -15,14 +15,6 @@ import Cache from './Cache';
 
 import './Navigation.css';
 
-function TabContainer(props) {
-  return (
-    <Typography component="div" style={{ padding: 8 * 3 }}>
-      {props.children}
-    </Typography>
-  );
-}
-
 const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1,

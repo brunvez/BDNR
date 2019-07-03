@@ -1,0 +1,24 @@
+.Messaging {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.Messaging-editor {
+  margin-bottom: 50px;
+}
+
+.Messaging-message {
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: #3883fa;
+  color: #FFF;
+  margin: 15px 0;
+  padding: 10px;
+  font-size: 15px;
+}
